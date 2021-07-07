@@ -1,5 +1,5 @@
 # DecisionTree
-## Implementando o classificador C4.4 - Arvore de  Decisão
+## Implementando o classificador C4.5 - Arvore de  Decisão
 
 1) Banco de dados: Wine
 - 13 atributos contínuos. 3 classes (tipos de vinho – “1ª coluna do arquivo wine.csv”).
